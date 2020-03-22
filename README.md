@@ -1,6 +1,6 @@
 # Clone Pássaro Urbano
 
-Um simples clone do app Pássaro Urbano.
+Um simples clone do app Pássaro Urbano utilizando a framework [Angular](https://angular.io/) versão 9.
 
 ## Execução da Aplicação
 
