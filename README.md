@@ -2,6 +2,10 @@
 
 Um simples clone do app Pássaro Urbano utilizando a framework [Angular](https://angular.io/) versão 9.
 
+<figure>
+    <img src="https://github.com/HaraHeique/clone-passaro-urbano/blob/master/homepage-passaro-urbano.png" alt="Pássaro Urbano" title="Homepage Pássaro Urbano" />
+</figure>
+
 ## Execução da Aplicação
 
 ### REST API Fake
