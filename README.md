@@ -1,31 +1,22 @@
 # Clone Pássaro Urbano
 
-Um simples clone do app Pássaro Urbano realizado que está hospedado no GitPages: https://haraheique.github.io/clone-passaro-urbano/
+Um simples clone do app Pássaro Urbano.
 
-## Description
+## Execução da Aplicação
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+### REST API Fake
 
-## Development server
+Para executar a aplicação de forma satisfatória a partir da simulação de requisições para uma API REST de back-end é utilizado a biblioteca [json-server](https://github.com/typicode/json-server) que tem a capacidade de criar API REST fakes de forma simples e rápida através de um arquivo no formato json para que desenvolvedores front-end que necessitam de um back-end rápido para tanto prototipar quanto para mockar dados. Use o seguinte comando abaixo na raiz da aplicação para executar a fake API:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+    npm install -g json-server
+    json-server banco-de-dados.json
 
-## Code scaffolding
+### Local
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Abra o prompt de comando no raiz da aplicação e execute o comando abaixo. Após isso navegue até o `http://localhost:4200/`:
 
-## Build
+    ng serve
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### Hospodagem
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Esta se encontra [hospedada](https://haraheique.github.io/clone-passaro-urbano) no GitHub Pages. Entretanto, como dito anteriormente, não há uma real API back-end para serem feitas as requests, logo é necessário executar a API fake através do [json-server](https://github.com/typicode/json-server). Para checar o website basta clicar no link: https://haraheique.github.io/clone-passaro-urbano
