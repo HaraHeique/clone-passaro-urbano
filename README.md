@@ -1,4 +1,8 @@
-# App2
+# Clone Pássaro Urbano
+
+Um simples clone do app Pássaro Urbano realizado que está hospedado no GitPages: https://haraheique.github.io/clone-passaro-urbano/
+
+## Description
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
