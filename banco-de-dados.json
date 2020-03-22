@@ -10,16 +10,16 @@
       "destaque": true,
       "imagens": [
         {
-          "url": "/assets/ofertas/1/img1.jpg"
+          "url": "./assets/ofertas/1/img1.jpg"
         },
         {
-          "url": "/assets/ofertas/1/img2.jpg"
+          "url": "./assets/ofertas/1/img2.jpg"
         },
         {
-          "url": "/assets/ofertas/1/img3.jpg"
+          "url": "./assets/ofertas/1/img3.jpg"
         },
         {
-          "url": "/assets/ofertas/1/img4.jpg"
+          "url": "./assets/ofertas/1/img4.jpg"
         }
       ]
     },
@@ -33,16 +33,16 @@
       "destaque": true,
       "imagens": [
         {
-          "url": "/assets/ofertas/2/img1.jpg"
+          "url": "./assets/ofertas/2/img1.jpg"
         },
         {
-          "url": "/assets/ofertas/2/img2.jpg"
+          "url": "./assets/ofertas/2/img2.jpg"
         },
         {
-          "url": "/assets/ofertas/2/img3.jpg"
+          "url": "./assets/ofertas/2/img3.jpg"
         },
         {
-          "url": "/assets/ofertas/2/img4.jpg"
+          "url": "./assets/ofertas/2/img4.jpg"
         }
       ]
     },
@@ -56,16 +56,16 @@
       "destaque": false,
       "imagens": [
         {
-          "url": "/assets/ofertas/3/img1.jpg"
+          "url": "./assets/ofertas/3/img1.jpg"
         },
         {
-          "url": "/assets/ofertas/3/img2.jpg"
+          "url": "./assets/ofertas/3/img2.jpg"
         },
         {
-          "url": "/assets/ofertas/3/img3.jpg"
+          "url": "./assets/ofertas/3/img3.jpg"
         },
         {
-          "url": "/assets/ofertas/3/img4.jpg"
+          "url": "./assets/ofertas/3/img4.jpg"
         }
       ]
     },
@@ -79,22 +79,22 @@
       "destaque": true,
       "imagens": [
         {
-          "url": "/assets/ofertas/4/img1.jpg"
+          "url": "./assets/ofertas/4/img1.jpg"
         },
         {
-          "url": "/assets/ofertas/4/img2.jpg"
+          "url": "./assets/ofertas/4/img2.jpg"
         },
         {
-          "url": "/assets/ofertas/4/img3.jpg"
+          "url": "./assets/ofertas/4/img3.jpg"
         },
         {
-          "url": "/assets/ofertas/4/img4.jpg"
+          "url": "./assets/ofertas/4/img4.jpg"
         },
         {
-          "url": "/assets/ofertas/4/img5.jpg"
+          "url": "./assets/ofertas/4/img5.jpg"
         },
         {
-          "url": "/assets/ofertas/4/img6.jpg"
+          "url": "./assets/ofertas/4/img6.jpg"
         }
       ]
     },
@@ -108,10 +108,10 @@
       "destaque": false,
       "imagens": [
         {
-          "url": "/assets/ofertas/5/img1.jpg"
+          "url": "./assets/ofertas/5/img1.jpg"
         },
         {
-          "url": "/assets/ofertas/5/img2.jpg"
+          "url": "./assets/ofertas/5/img2.jpg"
         }
       ]
     },
@@ -125,10 +125,10 @@
       "destaque": false,
       "imagens": [
         {
-          "url": "/assets/ofertas/6/img1.jpg"
+          "url": "./assets/ofertas/6/img1.jpg"
         },
         {
-          "url": "/assets/ofertas/6/img2.jpg"
+          "url": "./assets/ofertas/6/img2.jpg"
         }
       ]
     }
@@ -342,7 +342,7 @@
         {
           "id": 1,
           "img": {
-            "url": "/assets/ofertas/1/img1.jpg"
+            "url": "./assets/ofertas/1/img1.jpg"
           },
           "titulo": "Super Burger",
           "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
@@ -352,7 +352,7 @@
         {
           "id": 4,
           "img": {
-            "url": "/assets/ofertas/4/img1.jpg"
+            "url": "./assets/ofertas/4/img1.jpg"
           },
           "titulo": "Estância das águas",
           "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
@@ -371,7 +371,7 @@
         {
           "id": 1,
           "img": {
-            "url": "/assets/ofertas/1/img1.jpg"
+            "url": "./assets/ofertas/1/img1.jpg"
           },
           "titulo": "Super Burger",
           "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
@@ -381,7 +381,7 @@
         {
           "id": 3,
           "img": {
-            "url": "/assets/ofertas/3/img1.jpg"
+            "url": "./assets/ofertas/3/img1.jpg"
           },
           "titulo": "Pizzas Grandes",
           "descricao_oferta": "Pizza Grande, Mussarela, Marguerita ou outras!",
@@ -391,7 +391,7 @@
         {
           "id": 6,
           "img": {
-            "url": "/assets/ofertas/6/img1.jpg"
+            "url": "./assets/ofertas/6/img1.jpg"
           },
           "titulo": "Academia de tiro",
           "descricao_oferta": "Sessão de tiro dinâmico com Instrutor, Estande, Alvo e Equipamentos.",
@@ -410,7 +410,7 @@
         {
           "id": 1,
           "img": {
-            "url": "/assets/ofertas/1/img1.jpg"
+            "url": "./assets/ofertas/1/img1.jpg"
           },
           "titulo": "Super Burger",
           "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
@@ -420,7 +420,7 @@
         {
           "id": 3,
           "img": {
-            "url": "/assets/ofertas/3/img1.jpg"
+            "url": "./assets/ofertas/3/img1.jpg"
           },
           "titulo": "Pizzas Grandes",
           "descricao_oferta": "Pizza Grande, Mussarela, Marguerita ou outras!",
@@ -439,7 +439,7 @@
         {
           "id": 1,
           "img": {
-            "url": "/assets/ofertas/1/img1.jpg"
+            "url": "./assets/ofertas/1/img1.jpg"
           },
           "titulo": "Super Burger",
           "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
