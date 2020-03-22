@@ -17,6 +17,6 @@ Abra o prompt de comando no raiz da aplicação e execute o comando abaixo. Apó
 
     ng serve
 
-### Hospodagem
+### Hospedagem
 
 Esta se encontra [hospedada](https://haraheique.github.io/clone-passaro-urbano) no GitHub Pages. Entretanto, como dito anteriormente, não há uma real API back-end para serem feitas as requests, logo é necessário executar a API fake através do [json-server](https://github.com/typicode/json-server). Para checar o website basta clicar no link: https://haraheique.github.io/clone-passaro-urbano
