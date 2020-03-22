@@ -20,7 +20,6 @@
                 </div>
 
                 <div class="thumbnails">
-                    {{ oferta.imagens | json }}
                     <img *ngFor="let imagem of oferta.imagens" [src]="imagem.url" />
                 </div>
             </div>
