@@ -14,6 +14,9 @@ export class TopoComponent implements OnInit {
     private subjectPesquisa: Subject<string> = new Subject();
     public ofertasObservable: Observable<Oferta[]>;
     public ofertas: Oferta[];
+    public readonly LOGOIMG: string = "assets/logo.png";
+    public readonly BANNERIMG: string = "assets/banners/img_1.jpg";
+    public readonly CARRINHOIMG: string = "assets/carrinho.png";
 
     constructor(private ofertasService: OfertasService) { }
 
